@@ -1,0 +1,1 @@
+double* sigmoid(double *x, int size_x, int s_e_point, int fl_par);
